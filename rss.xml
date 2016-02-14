@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Home Theater San Diego]]></title>
+        <description><![CDATA[Home Theater San Diego]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 03:18:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Projector view of the screen]]></title>
+            <description><![CDATA[<article><h1>Projector view of the screen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7b7670-f8f8-4325-acf1-089a2a3de573.png"></article>]]></description>
+            <link>undefinedprojector-view-of-the-screen/index.html</link>
+            <guid isPermaLink="false">1d731795-8ae4-46dc-bd7b-a9790d31cb65</guid>
+            <pubDate>Sun, 14 Feb 2016 03:18:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
