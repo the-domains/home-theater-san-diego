@@ -1,14 +1,26 @@
-layout_spectrum: 0.8960574
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4982079
 color:
   saturation: 0.797491
-  lightness: 0.469534
   brandStrength: 0.8261649
+  rhythmicContrast: 0.4498208
   brandColors:
     - '#EBEBEB'
     - '#272727'
     - '#D8BCAC'
     - '#646466'
     - '#BD9078'
-  rhythmicContrast: 0.4498208
-typography_spectrum: 0.4982079
+  lightness: 0.469534
+layout_spectrum: 0.5089605
 name: Home Theater San Diego
